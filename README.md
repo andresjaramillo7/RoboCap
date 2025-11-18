@@ -7,6 +7,7 @@ COCO dataset and a multimodal CV + NLP pipeline its used to train, validate and 
 
 ## Motivation:
 Robots often perceive their enviroment through cameras, but lack the ability to summarize visual information in language.
+
 Natural-language descriptions give robots:
 - Human friendly explanations of what they see.
 - Context for decision making.
