@@ -1,4 +1,5 @@
 # RoboCap: Natural Language Scene Descriptions for Robots
+
 System that generates natural language descriptions from images of "what a robot sees". (CV => NLP)
 
 This idea aligns with real robotics applications such as assistance robots, autonomous navigation, and systems that need to interpret their environment in a way that is understandable to humans.
@@ -26,3 +27,10 @@ Source Link: https://cocodataset.org/#download
 By the end of the project, the system RoboCap will:
 - Generate readable captions from unseen images.
 - Highlight actions and objects relevant to robot navigation.
+
+## Initialation steps:
+<text...>
+
+# Project developed by:
+- Andrés Jaramillo Barón | A01029079
+- Pedro Mauri Martínez | A01029143
