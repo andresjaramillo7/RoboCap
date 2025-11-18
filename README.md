@@ -1,6 +1,8 @@
 # RoboCap: Natural Language Scene Descriptions for Robots
 System that generates natural language descriptions from images of "what a robot sees". (CV => NLP)
+
 This idea aligns with real robotics applications such as assistance robots, autonomous navigation, and systems that need to interpret their environment in a way that is understandable to humans.
+
 COCO dataset and a multimodal CV + NLP pipeline its used to train, validate and test the models.
 
 ## Motivation:
