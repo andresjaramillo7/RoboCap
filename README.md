@@ -14,6 +14,7 @@ Natural-language descriptions give robots:
 - Context for decision making.
 - Improved interpretability in assistive or domestic settings.
 - A bridge between vision and communication.
+
 The system aims to demonstrate how image captioning can serve as a foundational module for robot awareness.
 
 ## Dataset:
