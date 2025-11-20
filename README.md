@@ -14,6 +14,7 @@ Natural-language descriptions give robots:
 - Context for decision making.
 - Improved interpretability in assistive or domestic settings.
 - A bridge between vision and communication.
+
 The system aims to demonstrate how image captioning can serve as a foundational module for robot awareness.
 
 ## Dataset:
@@ -21,6 +22,7 @@ As it was established, the sysytem uses the COCO dataset (Common Objects in Cont
 - 118k training images.
 - 5k validation images.
 - 5 captions per image.
+
 Source Link: https://cocodataset.org/#download
 
 ## Expected Outcomes of the project (Before development):
