@@ -22,6 +22,7 @@ As it was established, the sysytem uses the COCO dataset (Common Objects in Cont
 - 118k training images.
 - 5k validation images.
 - 5 captions per image.
+
 Source Link: https://cocodataset.org/#download
 
 ## Expected Outcomes of the project (Before development):
