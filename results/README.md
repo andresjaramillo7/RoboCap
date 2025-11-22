@@ -1,6 +1,6 @@
 # Results Directory
 
-In this directory, you can find especial information of the models.
+In this directory can be found; The following especial information of the models.
 - Logs.
 - Best Models.
 - Model's checkpoints.
