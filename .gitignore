@@ -212,3 +212,5 @@ raw_data/
 *.zip
 *.pth
 *.pt
+
+results/
