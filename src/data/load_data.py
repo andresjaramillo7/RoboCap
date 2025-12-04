@@ -25,10 +25,10 @@ def Robocap(img_bytes):
 
     return caption
 
-image = open("raw_data\\images\\test2017\\000000478760.jpg", "rb")
-img_bytes = image.read()
+# image = open("raw_data\\images\\test2017\\000000478760.jpg", "rb")
+# img_bytes = image.read()
 # print(img_bytes)
 
-cap = Robocap(img_bytes)
+# cap = Robocap(img_bytes)
 
-print("Generated Caption:", cap)
+# print("Generated Caption:", cap)
