@@ -1,0 +1,14 @@
+numpy
+pandas
+matplotlib
+opencv-python
+Pillow
+torch
+torchvision
+tqdm
+transformers
+torchmetrics
+lightning
+fastapi
+uvicorn
+python-multipart
