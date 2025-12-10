@@ -1,3 +1,21 @@
+# RoboCap .gitignore file
+# raw_data directory
+*.csv
+*.zip
+*.pth
+/raw_data/annotations/*.json
+train2017/
+val2017/
+test2017/
+# results directory
+checkpoints/
+logs/
+# PyTorch model files
+*.pt
+*.ckpt
+
+#
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]
@@ -205,12 +223,3 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
-
-raw_data/
-*.jpg
-*.png
-*.zip
-*.pth
-*.pt
-
-results/
