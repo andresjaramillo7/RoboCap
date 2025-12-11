@@ -96,13 +96,13 @@ Open a terminal in your project root. Its strongly recommend using a **virtual e
     
     Example for CUDA 11.8:
     ```bash
-    pip install torch torchvision --index-url https://download.pytorch.org/whl/cu118
+    python -m pip install torch torchvision --index-url https://download.pytorch.org/whl/cu118
     ```
 
 4. **Install Remaining Dependencies:**
 
     ```bash
-    pip install -r requirements.txt
+    python -m pip install -r requirements.txt
     ```
 
 #
