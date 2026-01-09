@@ -4,8 +4,8 @@ import { SafeAreaView } from "react-native-safe-area-context";
 import { Ionicons } from "@expo/vector-icons";
 import Header from "../components/Header";
 import Button from "../components/Button";
-import { pickFromGallery, takePhoto } from "../lib/image";
-import { uploadImageAndGetCaption } from "../lib/api";
+import { pickFromGallery, takePhoto } from "../library/image";
+import { uploadImageAndGetCaption } from "../library/api";
 
 export default function App() {
     const [imageUri, setImageUri] = useState<string | null>(null);
