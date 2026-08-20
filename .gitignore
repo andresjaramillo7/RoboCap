@@ -1,4 +1,5 @@
 # RoboCap .gitignore file
+
 # raw_data directory
 *.csv
 *.zip
